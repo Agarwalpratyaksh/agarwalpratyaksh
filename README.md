@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agarwalpratyaksh&theme=dark&show_icons=true&locale=en" alt="agarwalpratyaksh" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=agarwalpratyaksh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="100%" alt="streak graph" alt="agarwalpratyaksh" /></p>
