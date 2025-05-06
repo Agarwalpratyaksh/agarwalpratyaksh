@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/agrwl_pratyaksh" target="blank"><img src="https://img.shields.io/twitter/follow/agrwl_pratyaksh?logo=twitter&style=for-the-badge" alt="agrwl_pratyaksh" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs , TypeScript**
+- 🌱 I’m currently learning **Something new, which even I don't know **
 
 - 📫 How to reach me **agarwalprax@gmail.com**
 
-- ⚡ Fun fact **I am human**
+- ⚡ Fun fact **I am an alien 👽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
